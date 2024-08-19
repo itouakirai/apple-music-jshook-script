@@ -1,0 +1,38 @@
+[
+	{
+		"author": "itouakira",
+		"markdown": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/README.md",
+		"ctime": "2024/8/19 18:17:28",
+		"source": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/Script/agent",
+		"id": "apple-music-agent",
+		"title": "agent.js",
+		"type": "Frida",
+		"version": "1.0",
+		"url": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/Script/agent/agent.js",
+		"desc": "监听10020和20020，前者解密，后者通过播放和离线通道获取满血m3u8"
+	},
+	{
+		"author": "itouakira",
+		"markdown": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/README.md",
+		"ctime": "2024/8/19 18:17:28",
+		"source": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/Script/agent+1",
+		"id": "apple-music-agent+1",
+		"title": "agent+1.js",
+		"type": "Frida",
+		"version": "1.0",
+		"url": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/Script/agent+1/agent+1.js",
+		"desc": "监听10021和20021，前者解密，后者通过播放通道获取满血m3u8"
+	},
+	{
+		"author": "itouakira",
+		"markdown": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/README.md",
+		"ctime": "2024/8/19 18:17:28",
+		"source": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/Script/agent+2",
+		"id": "apple-music-agent+2",
+		"title": "agent+2.js",
+		"type": "Frida",
+		"version": "1.0",
+		"url": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/Script/agent+2/agent+2.js",
+		"desc": "监听10022和20022，前者解密，后者通过播放通道获取满血m3u8"
+	}
+]
