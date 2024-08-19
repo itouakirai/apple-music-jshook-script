@@ -148,7 +148,6 @@ setTimeout(() => {
             Java.performNow(function () {
                 const url = getM3U8(adamID);
                 resolve(url);
-                }
             });
         });
     }
