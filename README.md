@@ -1,0 +1,1 @@
+# apple-music-jshook-script
