@@ -34,5 +34,17 @@
 		"version": "1.0",
 		"url": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/Script/agent+2/agent+2.js",
 		"desc": "监听10022和20022，前者解密，后者通过播放通道获取满血m3u8"
+	}，
+	{
+		"author": "itouakira",
+		"markdown": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/README.md",
+		"ctime": "2024/8/19 18:17:28",
+		"source": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/Script/getm3u8",
+		"id": "apple-music-getm3u8",
+		"title": "getm3u8.js",
+		"type": "Frida",
+		"version": "1.0",
+		"url": "https://raw.githubusercontent.com/itouakirai/apple-music-jshook-script/main/Script/getm3u8/getm3u8.js",
+		"desc": "监听20020，通过离线下载通道获取满血m3u8"
 	}
 ]
